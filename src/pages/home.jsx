@@ -10,7 +10,7 @@ function Home() {
         <code>window.blocklet = {JSON.stringify(window.blocklet, null, 2)}</code>
       </pre>
       <Link className="app-link" to="/about">
-        About
+        啦啦啦啦啦啦啦
       </Link>
       <a className="app-link" href="https://docs.arcblock.io/abtnode/" target="_blank" rel="noopener noreferrer">
         Learn Blocklet
