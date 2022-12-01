@@ -145,3 +145,4 @@ After developing a blocklet, you may need to bundle it. Use `npm run bundle` com
 
 The code is licensed under the Apache 2.0 license found in the
 [LICENSE](LICENSE) file.
+# blocklet-project
